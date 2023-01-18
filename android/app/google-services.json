@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1096006915408",
+    "project_id": "livenews-26496",
+    "storage_bucket": "livenews-26496.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096006915408:android:cfb3b134983f9e2cd18855",
+        "android_client_info": {
+          "package_name": "com.rann"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096006915408-odrtejkpkvi94jj2j6cf6ilbj07nkeru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7wKaw2E7KHM4isa4DUiJe1QxylEu0VOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096006915408-odrtejkpkvi94jj2j6cf6ilbj07nkeru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
